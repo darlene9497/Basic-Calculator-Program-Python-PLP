@@ -11,14 +11,13 @@ Welcome to the Basic Calculator Program. This program allows users to perform fu
 ## Installation
 To use the Basic Calculator Program, you need to have Python installed on your system. Follow these steps to get started:
 
-Clone the Repository:
-
+- Clone the Repository:
 git clone https://github.com/darlene9497/Basic-Calculator-Program-Python-PLP.git
-Navigate to the Project Directory:
 
+- Navigate to the Project Directory:
 cd Basic-Calculator-Program-Python-PLP
-Run the Calculator:
 
+- Run the Calculator:
 python calculator.py or python3 calculator.py
 
 ## Usage
